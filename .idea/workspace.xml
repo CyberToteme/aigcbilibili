@@ -176,20 +176,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="HTTP 请求.generated-requests中的所有" />
+      <item itemvalue="Application.SendMessage" />
+      <item itemvalue="HTTP Request.generated-requests中的所有" />
       <item itemvalue="Spring Boot.video" />
       <item itemvalue="Spring Boot.gateway" />
       <item itemvalue="Spring Boot.user_center" />
       <item itemvalue="Spring Boot.notice" />
       <item itemvalue="Spring Boot.chat" />
       <item itemvalue="Spring Boot.search" />
-      <item itemvalue="应用程序.SendMessage" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.SendMessage" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SpringBeansView">
